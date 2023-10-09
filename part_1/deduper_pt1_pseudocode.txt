@@ -3,22 +3,32 @@ Author: Evelyn Wong
 Date Created: 2023-10-05
 Problem Description: Part 1 Pseudocode for Deduper
 
+A PCR duplicate are reads made from the same original cDNA molecule via PCR. 
+Because certain sequences can be over-represented through amplification, we want to ensure that our transcripts are significant rather than because of PCR bias.
+ 
 Given SAM file, remove all PCR duplicates and retain single copy.
 
 Don't load everything into memory.
 
 Algorithm is for single-end data with 96 known UMIs.
- UMI information will be in the QNAME, like so: NS500451:154:HWKTMBGXX:1:11101:15364:1139:GAACAGGT. Discard any UMIs with errors (or error correct, if you're feeling ambitious).
+UMI information will be in the QNAME, like so: NS500451:154:HWKTMBGXX:1:11101:15364:1139:GAACAGGT. Discard any UMIs with errors.
 
+For de-duplicating, need to consider the chromosome position, beginning position, strandedness, soft-clipping presence, and UMIs. 
 ---------------------------------------------------
 
 Create function to pass in user-specified files
 def get_args():
     '''Function gets arguments from user and other options to be parsed and stores them into some defined variable'''
+    - get SAM file 
+    - get umi file 
+    - get output path file
+    - (challenge): paired end consideration
     return args
 
 initialize args variables
-
+umi_dictionary
+new_dictionary_for_sam_file: keys as tuple of chromosome, strandedness, and position, and value as read
+at bottom, initialize variables individually from SAM file
 
 def known_umi(UMI sequence: str, UMI_dict) -> boolean:
 '''this function removes unknown UMIs that are not part of the 96 known UMIs given'''
