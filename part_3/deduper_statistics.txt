@@ -1,0 +1,86 @@
+Statistics Summary
+----------------------------------
+Number of unknown UMIs: 0
+Number of unique reads: 13719005
+Number of duplicates: 4467362
+Duplicate Chrom: 1 Number Duplicates: 67380
+Duplicate Chrom: 10 Number Duplicates: 43011
+Duplicate Chrom: 11 Number Duplicates: 725443
+Duplicate Chrom: 12 Number Duplicates: 19058
+Duplicate Chrom: 13 Number Duplicates: 37436
+Duplicate Chrom: 14 Number Duplicates: 35429
+Duplicate Chrom: 15 Number Duplicates: 91696
+Duplicate Chrom: 16 Number Duplicates: 18083
+Duplicate Chrom: 17 Number Duplicates: 110040
+Duplicate Chrom: 18 Number Duplicates: 15959
+Duplicate Chrom: 19 Number Duplicates: 151503
+Duplicate Chrom: 2 Number Duplicates: 1230912
+Duplicate Chrom: 3 Number Duplicates: 65654
+Duplicate Chrom: 4 Number Duplicates: 68021
+Duplicate Chrom: 5 Number Duplicates: 27929
+Duplicate Chrom: 6 Number Duplicates: 36857
+Duplicate Chrom: 7 Number Duplicates: 712460
+Duplicate Chrom: 8 Number Duplicates: 286348
+Duplicate Chrom: 9 Number Duplicates: 236173
+Duplicate Chrom: MT Number Duplicates: 468781
+Duplicate Chrom: X Number Duplicates: 17053
+Duplicate Chrom: Y Number Duplicates: 77
+Duplicate Chrom: JH584299.1 Number Duplicates: 1
+Duplicate Chrom: GL456233.2 Number Duplicates: 18
+Duplicate Chrom: GL456211.1 Number Duplicates: 1
+Duplicate Chrom: GL456221.1 Number Duplicates: 1
+Duplicate Chrom: GL456354.1 Number Duplicates: 1
+Duplicate Chrom: GL456210.1 Number Duplicates: 1
+Duplicate Chrom: GL456212.1 Number Duplicates: 2
+Duplicate Chrom: JH584304.1 Number Duplicates: 4
+Duplicate Chrom: GL456379.1 Number Duplicates: 1
+Duplicate Chrom: GL456367.1 Number Duplicates: 2
+Duplicate Chrom: GL456239.1 Number Duplicates: 1
+Duplicate Chrom: GL456383.1 Number Duplicates: 1
+Duplicate Chrom: MU069435.1 Number Duplicates: 2056
+Duplicate Chrom: GL456389.1 Number Duplicates: 1
+Duplicate Chrom: GL456370.1 Number Duplicates: 1
+Duplicate Chrom: GL456390.1 Number Duplicates: 1
+Duplicate Chrom: GL456382.1 Number Duplicates: 1
+Duplicate Chrom: GL456396.1 Number Duplicates: 1
+Duplicate Chrom: GL456368.1 Number Duplicates: 1
+Duplicate Chrom: MU069434.1 Number Duplicates: 1
+Duplicate Chrom: JH584295.1 Number Duplicates: 5
+----------------------------------
+Unique Chrom: 1 Number Unique Reads: 697508
+Unique Chrom: 10 Number Unique Reads: 564903
+Unique Chrom: 11 Number Unique Reads: 1220389
+Unique Chrom: 12 Number Unique Reads: 359951
+Unique Chrom: 13 Number Unique Reads: 467659
+Unique Chrom: 14 Number Unique Reads: 387239
+Unique Chrom: 15 Number Unique Reads: 437465
+Unique Chrom: 16 Number Unique Reads: 360923
+Unique Chrom: 17 Number Unique Reads: 517566
+Unique Chrom: 18 Number Unique Reads: 290506
+Unique Chrom: 19 Number Unique Reads: 571665
+Unique Chrom: 2 Number Unique Reads: 2787018
+Unique Chrom: 3 Number Unique Reads: 547615
+Unique Chrom: 4 Number Unique Reads: 589839
+Unique Chrom: 5 Number Unique Reads: 562160
+Unique Chrom: 6 Number Unique Reads: 510818
+Unique Chrom: 7 Number Unique Reads: 1113183
+Unique Chrom: 8 Number Unique Reads: 576463
+Unique Chrom: 9 Number Unique Reads: 627488
+Unique Chrom: MT Number Unique Reads: 202002
+Unique Chrom: X Number Unique Reads: 317853
+Unique Chrom: Y Number Unique Reads: 2247
+Unique Chrom: JH584299.1 Number Unique Reads: 3
+Unique Chrom: GL456233.2 Number Unique Reads: 656
+Unique Chrom: GL456211.1 Number Unique Reads: 6
+Unique Chrom: GL456221.1 Number Unique Reads: 4
+Unique Chrom: GL456210.1 Number Unique Reads: 5
+Unique Chrom: GL456212.1 Number Unique Reads: 4
+Unique Chrom: JH584304.1 Number Unique Reads: 294
+Unique Chrom: GL456379.1 Number Unique Reads: 2
+Unique Chrom: GL456367.1 Number Unique Reads: 3
+Unique Chrom: MU069435.1 Number Unique Reads: 5450
+Unique Chrom: GL456370.1 Number Unique Reads: 21
+Unique Chrom: GL456396.1 Number Unique Reads: 17
+Unique Chrom: GL456368.1 Number Unique Reads: 3
+Unique Chrom: MU069434.1 Number Unique Reads: 3
+Unique Chrom: JH584295.1 Number Unique Reads: 111
